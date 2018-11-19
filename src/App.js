@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Board from './Componets/board/board';
+import Board from './Componets/Type/box';
 import Header from './Componets/Header/Header';
 import './App.css';
 
